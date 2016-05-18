@@ -1,2 +1,3 @@
-# bubblesort_gui
-Bubble Sort Gui Animations
+# Bubblesort_gui
+Bubble Sort Gui Animations 
+
